@@ -93,9 +93,9 @@ hr{
     height: 104px;
  }
  .course-info{
-     display: flex;
-     align-items:center; 
-     justify-content: space-between;
+    display:flex;
+    align-items:center; 
+    justify-content: space-between;
  }
 .course-duration{
     color: #FF4A60;
