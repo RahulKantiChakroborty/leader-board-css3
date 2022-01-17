@@ -98,9 +98,15 @@ hr{
     justify-content: space-between;
  }
 .course-duration{
+    margin-right: 50px;
     color: #FF4A60;
     background-color: #f0591d65;
     border-radius: 10px;
+}
+.course{
+    text-align: center;
+    border: solid 1px gold;
+    border-radius: 20px;
 }
  .fa-star{
      font-size: 12px;
@@ -111,7 +117,7 @@ hr{
  .fa-star.empty{
     color: #AEAEAE;
 }
- 
+
 /* ----------Media Queries--------- -*/
 /* Mobile divices */
 @media only screen and (max-width:688px){
